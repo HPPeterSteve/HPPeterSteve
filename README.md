@@ -6,7 +6,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HPPeterSteve&style=flat-square&color=blue" alt="Profile views" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/AI-FF6F61?style=flat-square&logo=artificial-intelligence" />
