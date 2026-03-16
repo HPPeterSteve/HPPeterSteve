@@ -14,7 +14,7 @@
 ---
 
 ### 🌱 About Me
-- I study the **financial market** and dream of working in this area! 📈  
+- I study the **Low-level programming** and dream of working in this area! 📈  
 - I build **Web Applications** with React Native, Next.js, and Tailwind CSS.  
 - Passionate about **C++ development** and exploring **AI technologies**.  
 
