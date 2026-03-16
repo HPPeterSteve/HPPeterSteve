@@ -14,8 +14,7 @@
 ---
 
 ### 🌱 About Me
-- I study the **Low-level programming** and dream of working in this area! 📈  
-- I build **Web Applications** with React Native, Next.js, and Tailwind CSS.  
+- I study the **Low-level programming** and dream of working in this area! 📈    
 - Passionate about **C++ development** and exploring **AI technologies**.  
 
 ---
