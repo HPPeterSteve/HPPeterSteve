@@ -1,6 +1,6 @@
 <p align="center">
   <h1>Hi 👋, I'm Esteves (HPPeterSteve)</h1>
-  <h3 align="center">C++ Dev | AI Enthusiast | Web Developer | Financial Market Explorer</h3>
+  <h3 align="center">C++ Dev | Low-level C | Software Engineer 
 </p>
 
 <p align="center">
