@@ -10,7 +10,11 @@
 
   <br><br>
 
-  ![Komodo Logo])  
+  <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/15233970-575a-40b1-bbfd-ae0dc6f6ea84" />
+
+
+
+
   <!-- Você pode substituir por uma logo real depois -->
 
 </div>
