@@ -10,7 +10,7 @@
 
   <br><br>
 
-  ![Komodo Logo](https://via.placeholder.com/800x200/0A0A0A/FFFFFF?text=Komodo+Secure)  
+  ![Komodo Logo])  
   <!-- Você pode substituir por uma logo real depois -->
 
 </div>
