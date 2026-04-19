@@ -12,7 +12,7 @@
 </p>
 
 ---
-
+### Check my main project: Komodo-Secure, thanks for yall
 ### 🌱 About Me
 - I study the **Low-level programming** and dream of working in this area! 📈    
 - Passionate about **C++ development** and exploring **AI technologies**.  
