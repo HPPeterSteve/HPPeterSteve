@@ -1,62 +1,69 @@
 <div align="center">
 
-  <h1>Komodo-Secure</h1>
-  <p><strong>Hardened Sandbox para Linux</strong> — Segurança real com mínimo overhead</p>
+# 🛡️ Komodo-Secure
 
-  <img src="https://img.shields.io/badge/C-C++-blue?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Security-critical-red?style=flat-square" />
-
-  <br><br>
-
-  <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/15233970-575a-40b1-bbfd-ae0dc6f6ea84" />
-
-
-
-
-  <!-- Você pode substituir por uma logo real depois -->
+**Segurança em código de máquina**
 
 </div>
 
-## Sobre o Projeto
+---
 
-**Komodo-Secure** é um sistema de sandbox hardened para Linux, projetado para rodar aplicações de forma extremamente isolada e segura.
+### 👋 Olá, eu sou **Steve Homer**, mais conhecido como **Peter Steve**.
 
-Ele combina múltiplas camadas de proteção do kernel Linux:
-- User Namespaces
-- Mount + PID Namespaces
-- Pivot Root
-- Capability Dropping
-- Seccomp-BPF (com allowlist restrita)
-- Resource Limits (anti-DoS)
+Trabalho no meu próprio Software de segurança chamado **Komodo-Secure**, onde todo conhecimento que adquiro com linguagens de baixo nível eu implemento nele, foco muito em refatoração e busco corrigir meus erros, sou apaixonado por codigo de máquina, sou otimista com o futuro da inteligência artificial.
 
-O objetivo é oferecer **segurança real** sem sacrificar performance.
+Estudo na **Etec Comendador João Rays**, estou no último módulo, iniciei na carreira de programação por que desde pequeno fui muito fissurado por codigos, olhava para o CMD e via setinhas e aquela barra reta piscando e me dava muito alegria, hoje adquiro conhecimento tecnico através do autodidatismo, aprendi desde cedo que arquitetura e engenharia de software são pilares essenciais hoje em dia.
+
+**Muito prazer!**
 
 ---
 
-### Principais Recursos
+### 🛠️ Sobre o Komodo-Secure
 
-- Sandbox com **5 camadas de isolamento**
-- Política Seccomp-BPF rigorosa (`SCMP_ACT_KILL_PROCESS`)
-- Drop completo de Linux Capabilities
-- Proteção contra path traversal e privilege escalation
-- Monitoramento de integridade de arquivos (inotify + hash)
-- CLI interativa simples e auditável
-- Preparação automática do jail
+- **Foco principal**: Segurança de alto nível com linguagens de baixo nível
+- **Princípios**: Refatoração constante, correção de erros e paixão por código de máquina
+- **Visão**: Otimismo com o futuro da inteligência artificial aplicada à segurança
 
----
+<div align="center">
 
-### Tech Stack
+![Shield](https://img.shields.io/badge/Security-🛡️-brightgreen?style=for-the-badge)
+![Low Level](https://img.shields.io/badge/Low--Level-Assembly%20%7C%20C%20%7C%20Machine%20Code-8A2BE2?style=for-the-badge)
+![Refactoring](https://img.shields.io/badge/Refatoração-Contínua-blue?style=for-the-badge)
 
-- **Linguagem principal:** C99 com algumas partes em C++
-- **Segurança:** libseccomp, libcap, namespaces, pivot_root
-- **Criptografia:** OpenSSL (AES-256-CBC + PBKDF2)
-- **Build:** CMake (em breve)
+</div>
 
 ---
 
-### Como usar (em breve)
+### 🌟 O que me move
 
-```bash
-# Em desenvolvimento - primeira versão pública saindo em breve
+- Paixão por **código de máquina** desde criança
+- Aprendizado autodidata constante
+- Arquitetura e engenharia de software como pilares fundamentais
+- Busca incansável por refatoração e qualidade
+
+---
+
+<div align="center">
+
+**"Olhava para o CMD e via setinhas e aquela barra reta piscando e me dava muito alegria."**
+
+</div>
+
+---
+
+### 📍 Formação
+
+**Etec Comendador João Rays**  
+Último módulo em andamento
+
+---
+
+<div align="center">
+
+🛡️ **Komodo-Secure** — Protegendo o futuro com código preciso.
+
+</div>
+
+---
+
+**Feito com paixão por código de máquina e otimismo com a IA.**
