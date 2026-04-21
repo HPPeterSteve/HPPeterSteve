@@ -37,10 +37,8 @@ Não sou fã de soluções "mágicas". Prefiro entender o que está acontecendo 
 
 ### Curiosidades sobre mim
 
-- Já toquei baixo em bandas por alguns anos
-- Sou apaixonado por filosofia, psicologia e história da tecnologia
-- Adoro quebrar coisas só pra entender como funcionam (e depois reconstruir melhor)
-- Meu pseudônimo "Homer" é uma mistura entre Homer Simpson e a Ilíada (depende do dia)
+- Sou curioso, autodidata, gosto de prestar atenção aos mínimos detalhes.
+- Eu era uma pessoa bem extrovertida, mas escolhi ser introvertido pois isso me faz bem, gosto de desenhar e no futuro quero fazer jogos...
 
 ### Meu Projeto Principal
 
