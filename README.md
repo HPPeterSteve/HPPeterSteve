@@ -80,7 +80,7 @@ Uptime   : cafeinado desde sempre
 
 ```
 IdenVault/
-├── 🔒 OverlayFS Isolation      → sandbox de arquivos sem copiar dados
+
 ├── 👁️  Fanotify Monitoring      → vigilância de eventos em tempo real
 ├── 💾 Secure Backup Engine     → backup cifrado e íntegro
 ├── 🗂️  Nautilus Integration     → interface gráfica no file manager
