@@ -1,5 +1,5 @@
 Olá! Seja bem-vindo ao meu Perfil do Github
-![Coding Animation](https://user-images.githubusercontent.com/74038190/226190908-cd4e0a61-801d-4b69-955b-5bd82eb7c10e.gif)
+![Coding Animation](https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif)
 me chamo Pedro, mas pode me chamar de Peter, amo programar e estudar como as coisas funcionam,
 amo construir coisas, desde pequeno sempre me interessei pelo espaço, universo, em como tudo funcionava.
 Via coisas com outros olhos e, o terminal não foi diferente!
