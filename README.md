@@ -12,7 +12,6 @@
 
 <p align="center">
   <a href="https://github.com/HPPeterSteve/IdenVault">
-    🛡️ IdenVault
   </a>
 </p>
 
