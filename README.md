@@ -2,15 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ffab,100:0d1117&height=180&section=header&text=Peter&fontSize=60&fontColor=00ffab&fontAlignY=38&desc=Systems%20%7C%20Security%20%7C%20Linux&descAlignY=58&descSize=18&descColor=ffffff&animation=fadeIn)
 
-```
-██████╗ ███████╗████████╗███████╗██████╗
-██╔══██╗██╔════╝╚══██╔══╝██╔════╝██╔══██╗
-██████╔╝█████╗     ██║   █████╗  ██████╔╝
-██╔═══╝ ██╔══╝     ██║   ██╔══╝  ██╔══██╗
-██║     ███████╗   ██║   ███████╗██║  ██║
-╚═╝     ╚══════╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
-```
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FFAB&center=true&vCenter=true&width=650&lines=Pedro+%7C+Peter;Linux+%26+Security+Enthusiast;Systems+Developer;Building+IdenVault+%F0%9F%9B%A1%EF%B8%8F;%22Eram+5h+da+manh%C3%A3+e+tinha+projeto+pra+apresentar...%22;%24+sudo+rm+-rf+--no-preserve-root+%2F+%23+brincadeira)](https://git.io/typing-svg)
 
 <br/>
