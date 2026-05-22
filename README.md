@@ -67,7 +67,7 @@ Uptime   : cafeinado desde sempre
 
 <div align="center">
 
-### 🛡️ IdenVault
+### 🗂 IdenVault
 
 [![IdenVault](https://img.shields.io/badge/IdenVault-Security_Tool-00ffab?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/HPPeterSteve/IdenVault)
 ![Status](https://img.shields.io/badge/status-active-00ffab?style=for-the-badge)
@@ -80,8 +80,8 @@ Uptime   : cafeinado desde sempre
 
 ```
 IdenVault/
-
-├── 👁️  Fanotify Monitoring      → vigilância de eventos em tempo real
+├── 🔏 Seccomps                 → Restringe Chamadas 
+├── 👁️ Fanotify Monitoring      → vigilância de eventos em tempo real
 ├── 💾 Secure Backup Engine     → backup cifrado e íntegro
 ├── 🗂️  Nautilus Integration     → interface gráfica no file manager
 └── ⚙️  PID Whitelist Engine     → controle granular por processo
