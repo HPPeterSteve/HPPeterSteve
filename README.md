@@ -57,5 +57,5 @@ Experimentos, ferramentas e estudos envolvendo sistemas, automação e desenvolv
 ---
 
 <p align="center">
-  <i>"Transformando curiosidade em código."</i>
+  <i>"Eu ia escrever uma frase generica aqui, mas lembrei que é 5 da manhã e tenho que apresentar projeto...."</i>
 </p>
