@@ -1,12 +1,12 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ffab,100:0d1117&height=180&section=header&text=Peter&fontSize=60&fontColor=00ffab&fontAlignY=38&desc=Systems%20%7C%20Security%20%7C%20Linux&descAlignY=58&descSize=18&descColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:b44be1,100:0d1117&height=180&section=header&text=Peter&fontSize=60&fontColor=b44be1&fontAlignY=38&desc=Systems%20%7C%20Security%20%7C%20Linux&descAlignY=58&descSize=18&descColor=ffffff&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FFAB&center=true&vCenter=true&width=650&lines=Pedro+%7C+Peter;Linux+%26+Security+Enthusiast;Systems+Developer;Building+IdenVault+%F0%9F%9B%A1%EF%B8%8F;%22Eram+5h+da+manh%C3%A3+e+tinha+projeto+pra+apresentar...%22;%24+sudo+rm+-rf+--no-preserve-root+%2F+%23+brincadeira)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=b44be1&center=true&vCenter=true&width=650&lines=Pedro+%7C+Peter;Linux+%26+Security+Enthusiast;Systems+Developer;Building+IdenVault+%F0%9F%9B%A1%EF%B8%8F;%22Eram+5h+da+manh%C3%A3+e+tinha+projeto+pra+apresentar...%22;%24+sudo+rm+-rf+--no-preserve-root+%2F+%23+brincadeira)](https://git.io/typing-svg)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=HPPeterSteve&color=00ffab&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=HPPeterSteve&color=b44be1&style=for-the-badge&label=PROFILE+VIEWS" />
 </div>
 
 ---
@@ -60,8 +60,8 @@ Uptime   : cafeinado desde sempre
 
 ### 🗂 IdenVault
 
-[![IdenVault](https://img.shields.io/badge/IdenVault-Security_Tool-00ffab?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/HPPeterSteve/IdenVault)
-![Status](https://img.shields.io/badge/status-active-00ffab?style=for-the-badge)
+[![IdenVault](https://img.shields.io/badge/IdenVault-Security_Tool-b44be1?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/HPPeterSteve/IdenVault)
+![Status](https://img.shields.io/badge/status-active-b44be1?style=for-the-badge)
 ![Lang](https://img.shields.io/badge/lang-C%20%2F%20Rust-orange?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/platform-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -81,7 +81,7 @@ IdenVault/
 <div align="center">
 
 [![Repo](https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github)](https://github.com/HPPeterSteve/IdenVault)
-[![Stars](https://img.shields.io/github/stars/HPPeterSteve/IdenVault?style=for-the-badge&color=00ffab&labelColor=0d1117)](https://github.com/HPPeterSteve/IdenVault)
+[![Stars](https://img.shields.io/github/stars/HPPeterSteve/IdenVault?style=for-the-badge&color=b44be1&labelColor=0d1117)](https://github.com/HPPeterSteve/IdenVault)
 
 </div>
 
@@ -104,12 +104,12 @@ pedro@linux:~/projects$ ls
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HPPeterSteve&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=00ffab&title_color=00ffab&include_all_commits=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HPPeterSteve&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffab&langs_count=6" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HPPeterSteve&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=b44be1&title_color=b44be1&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HPPeterSteve&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=b44be1&langs_count=6" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=HPPeterSteve&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ffab&ring=00ffab&fire=ff6b6b&currStreakLabel=00ffab&sideLabels=00ffab&dates=ffffff" height="160"/>
+<img src="https://streak-stats.demolab.com?user=HPPeterSteve&theme=tokyonight&hide_border=true&background=0d1117&stroke=b44be1&ring=b44be1&fire=e040fb&currStreakLabel=b44be1&sideLabels=b44be1&dates=ffffff" height="160"/>
 
 </div>
 
@@ -119,7 +119,7 @@ pedro@linux:~/projects$ ls
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=HPPeterSteve&theme=matrix&no-frame=true&margin-w=8&margin-h=8&column=4)](https://github.com/HPPeterSteve)
+[![trophy](https://github-profile-trophy.vercel.app/?username=HPPeterSteve&theme=dark_dimmed&no-frame=true&margin-w=8&margin-h=8&column=4)](https://github.com/HPPeterSteve)
 
 </div>
 
@@ -129,7 +129,7 @@ pedro@linux:~/projects$ ls
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HPPeterSteve&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00ffab&line=00ffab&point=ffffff&area=true&area_color=00ffab)](https://github.com/HPPeterSteve)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HPPeterSteve&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=b44be1&line=b44be1&point=ffffff&area=true&area_color=b44be1)](https://github.com/HPPeterSteve)
 
 </div>
 
@@ -174,6 +174,6 @@ obrigado pela visita
 
 [![GitHub](https://img.shields.io/badge/GitHub-HPPeterSteve-181717?style=for-the-badge&logo=github)](https://github.com/HPPeterSteve)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ffab,100:0d1117&height=100&section=footer&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:b44be1,100:0d1117&height=100&section=footer&animation=fadeIn)
 
 </div>
