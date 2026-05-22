@@ -1,14 +1,14 @@
-<h1 align="center">Olá! 👋 Seja bem-vindo ao meu GitHub</h1>
+<h1 align="center">Olá! Seja bem-vindo ao meu GitHub</h1>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="600">
 </p>
 
-## 🚀 Sobre mim
+## Sobre mim
 
 Meu nome é **Pedro**, mas pode me chamar de **Peter**.
 
-Sou apaixonado por programação, sistemas e por entender como as coisas funcionam por trás das cortinas. Desde criança eu me perguntava como o universo, o espaço e a tecnologia funcionavam. Essa curiosidade acabou me levando para o mundo da computação, onde encontrei no terminal um lugar para explorar, criar e aprender constantemente.
+Sou apaixonado por programação, sistemas e por entender como as coisas funcionam por trás das cortinas. Desde criança me perguntava como o universo, o espaço e a tecnologia funcionavam. Essa curiosidade acabou me levando para a computação, onde encontrei no terminal um lugar para explorar, criar e aprender constantemente.
 
 Gosto de construir projetos, estudar arquitetura de software, Linux, segurança e programação de baixo nível.
 
@@ -16,26 +16,23 @@ Gosto de construir projetos, estudar arquitetura de software, Linux, segurança 
   <img src="https://user-images.githubusercontent.com/74038190/229223143-574f6669-d12e-47b4-8d51-f7083e3dc399.gif" width="500">
 </p>
 
-## 🎵 Além do código
+## Além do código
 
 Também gosto de música e de explorar novas ideias.
 
-Tenho vários projetos experimentais espalhados pelo computador:
-- 🎮 Jogos que nunca saíram do papel
-- 🧪 Protótipos abandonados
-- 💡 Ideias que ainda aguardam seu momento
+Tenho vários projetos experimentais espalhados pelo computador. Alguns nunca saíram do papel, outros ficaram pelo caminho e alguns acabaram evoluindo para algo maior.
 
 Nem tudo chega ao GitHub, mas quase tudo me ensina alguma coisa.
 
 ---
 
-## 🛠 Atualmente
+## Atualmente
 
-Estou trabalhando em projetos voltados para:
+Estou trabalhando principalmente com:
 
 - Linux
-- Segurança de arquivos
 - Programação em C
+- Segurança de arquivos
 - Desenvolvimento de sistemas
 - Ferramentas de baixo nível
 
@@ -47,16 +44,18 @@ Estou trabalhando em projetos voltados para:
 >
 > Ou talvez apenas mais uma ideia que saiu da curiosidade e acabou virando código.
 
-##  Projetos em destaque
+## Projetos em destaque
 
-### 🛡️ IdenVault
+### IdenVault
+
 Sistema de isolamento, monitoramento e proteção de arquivos para Linux.
 
-###  Outros Projetos
+### Outros Projetos
+
 Experimentos, ferramentas e estudos envolvendo sistemas, automação e desenvolvimento de software.
 
 ---
 
 <p align="center">
-  <i>"Transformando curiosidade em código desde a primeira linha."</i>
+  <i>"Transformando curiosidade em código."</i>
 </p>
