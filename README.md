@@ -137,14 +137,11 @@ pedro@linux:~/projects$ ls
 
 ## `$ watch -n 1 cat /proc/peter/contributions`
 
-<div align="center">
-
-> ⚠️ *Para ativar a cobrinha animada, adicione este GitHub Action ao seu repositório:*
-> `.github/workflows/snake.yml` → [ver instruções](https://github.com/Platane/snk)
-
-[![snake gif](https://raw.githubusercontent.com/HPPeterSteve/HPPeterSteve/output/github-contribution-grid-snake-dark.svg)](https://github.com/Platane/snk)
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HPPeterSteve/HPPeterSteve/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HPPeterSteve/HPPeterSteve/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HPPeterSteve/HPPeterSteve/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
