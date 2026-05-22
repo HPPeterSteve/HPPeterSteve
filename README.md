@@ -1,4 +1,24 @@
-<h1 align="center">Olá! Seja bem-vindo ao meu GitHub</h1>
+<h1 align="center">Peter</h1>
+
+<p align="center">
+  <i>"Eu ia escrever uma frase genérica aqui, mas lembrei que é 5 da manhã e tenho que apresentar projeto..."</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/HPPeterSteve/IdenVault">
+    <img src="https://img.shields.io/badge/Featured_Project-IdenVault-blue?style=for-the-badge">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/HPPeterSteve/IdenVault">
+    🛡️ IdenVault
+  </a>
+</p>
+
+Sistema de isolamento, monitoramento e proteção de arquivos para Linux.
+
+---
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="600">
@@ -6,56 +26,59 @@
 
 ## Sobre mim
 
-Meu nome é **Pedro**, mas pode me chamar de **Peter**.
+Meu nome é Pedro, mas pode me chamar de Peter.
 
-Sou apaixonado por programação, sistemas e por entender como as coisas funcionam por trás das cortinas. Desde criança me perguntava como o universo, o espaço e a tecnologia funcionavam. Essa curiosidade acabou me levando para a computação, onde encontrei no terminal um lugar para explorar, criar e aprender constantemente.
+Sou apaixonado por programação, sistemas, Linux e segurança. Desde criança eu queria entender como as coisas funcionavam, desde o espaço até computadores.
 
-Gosto de construir projetos, estudar arquitetura de software, Linux, segurança e programação de baixo nível.
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223143-574f6669-d12e-47b4-8d51-f7083e3dc399.gif" width="500">
-</p>
-
-## Além do código
-
-Também gosto de música e de explorar novas ideias.
-
-Tenho vários projetos experimentais espalhados pelo computador. Alguns nunca saíram do papel, outros ficaram pelo caminho e alguns acabaram evoluindo para algo maior.
-
-Nem tudo chega ao GitHub, mas quase tudo me ensina alguma coisa.
+Hoje passo boa parte do tempo construindo software, estudando sistemas operacionais e transformando curiosidade em projetos.
 
 ---
 
-## Atualmente
-
-Estou trabalhando principalmente com:
-
-- Linux
-- Programação em C
-- Segurança de arquivos
-- Desenvolvimento de sistemas
-- Ferramentas de baixo nível
+## Tecnologias
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212907112-d360cd3f-bae2-42de-a41a-ca5622488e96.png" width="700">
+
+<img src="https://skillicons.dev/icons?i=c,rust,linux,git,github,vscode,bash,python" />
+
 </p>
 
-> Se você chegou até aqui, talvez encontre algo interessante nos meus repositórios.
->
-> Ou talvez apenas mais uma ideia que saiu da curiosidade e acabou virando código.
+---
 
-## Projetos em destaque
+## Estatísticas
 
-### IdenVault
+<p align="center">
 
-Sistema de isolamento, monitoramento e proteção de arquivos para Linux.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HPPeterSteve&show_icons=true&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HPPeterSteve&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+## Atividade
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HPPeterSteve&theme=tokyo-night" />
+
+</p>
+
+---
+
+## Projetos
+
+### 🛡️ IdenVault
+
+- OverlayFS Isolation
+- Fanotify Monitoring
+- Secure Backup Engine
+- Nautilus Integration
+- PID Whitelist Engine
 
 ### Outros Projetos
 
-Experimentos, ferramentas e estudos envolvendo sistemas, automação e desenvolvimento de software.
-
----
-
+Experimentos, ferramentas e estudos envolvendo Linux, sistemas e desenvolvimento de software.
 <p align="center">
-  <i>"Eu ia escrever uma frase generica aqui, mas lembrei que é 5 da manhã e tenho que apresentar projeto...."</i>
+  <img src="https://streak-stats.demolab.com?user=HPPeterSteve&theme=tokyonight" />
 </p>
