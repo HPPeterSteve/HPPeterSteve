@@ -16,9 +16,6 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=HPPeterSteve&color=00ffab&style=for-the-badge&label=PROFILE+VIEWS" />
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/HPPeterSteve?style=for-the-badge&color=00ffab&labelColor=0d1117&logo=github)](https://github.com/HPPeterSteve)
-
 </div>
 
 ---
